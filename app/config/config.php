@@ -1,6 +1,6 @@
 <?php
 
-define("BASEURL", "http://localhost/AppMVC/public/");
+define("BASEURL", "http://toko-khoirul.herokuapp.com/public/");
 
 // DB
 define('DB_HOST', 'ec2-3-211-221-185.compute-1.amazonaws.com');
